@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T14:40:14.184925+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-07-02T18:09:26.349217+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -264,6 +275,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "特朗普任命受争议专家出任UFO委员会“掌门”",
+          "url": "https://wallstreetcn.com/livenews/3127915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
           "url": "https://flash.jin10.com/detail/20260702035645327800",
           "source": "金十数据",
@@ -278,7 +300,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
@@ -328,6 +350,17 @@
           "time_info": "[05时26分 ~ 07时12分]"
         },
         {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 18时09分]"
+        },
+        {
           "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
           "url": "https://flash.jin10.com/detail/20260702044739454800",
           "source": "金十数据",
@@ -338,17 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时12分]"
-        },
-        {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -390,7 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -404,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗议会议长：不允许核查人员进入受损核设施",
@@ -461,6 +494,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3127921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "伊朗军方警告美以：哈梅内伊国葬期间任何袭击都将招致强力报复",
+          "url": "https://flash.jin10.com/detail/20260702174858655800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
           "url": "https://wallstreetcn.com/livenews/3127569",
           "source": "华尔街见闻-快讯",
@@ -508,7 +563,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
@@ -545,6 +600,18 @@
           "time_info": "01时13分"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 18时09分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -569,17 +636,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时12分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -658,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。",
+          "url": "https://wallstreetcn.com/livenews/3127910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
@@ -724,6 +791,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek服务中断约一小时后恢复",
+          "url": "https://flash.jin10.com/detail/20260702175909255800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时12分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
@@ -859,26 +968,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 07时12分]"
         }
       ]
     }
