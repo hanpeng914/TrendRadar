@@ -1,21 +1,11 @@
 {
-  "generated_at": "2026-07-08T14:29:18.893897+08:00",
-  "total_titles_processed": 1012,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "ifeng",
-    "jin10",
-    "tieba",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2026-07-08T17:25:14.595120+08:00",
+  "total_titles_processed": 1189,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -32,6 +22,19 @@
           "time_info": "[06时58分 ~ 14时29分]"
         },
         {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 17时25分]"
+        },
+        {
           "title": "美军发动打击，伊朗多地传出爆炸声",
           "url": "https://news.ifeng.com/c/8ua61PBRR6g",
           "source": "凤凰网",
@@ -43,16 +46,40 @@
           "time_info": "[06时58分 ~ 08时02分]"
         },
         {
-          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
-          "url": "https://www.cls.cn/detail/2419839",
-          "source": "财联社热门",
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 17时25分]"
+        },
+        {
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 17时25分]"
+        },
+        {
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时32分 ~ 14时29分]"
+          "time_info": "[14时26分 ~ 17时25分]"
         },
         {
           "title": "美国撤销伊朗石油制裁豁免，油价飙升",
@@ -91,16 +118,15 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
@@ -112,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        },
-        {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
@@ -175,7 +190,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -246,6 +261,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "欧盟外交政策高级代表：美国与伊朗之间的交火，使得结束战争的谈判更加复杂化。",
+          "url": "https://flash.jin10.com/detail/20260708171830084800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国恢复对伊朗石油制裁",
           "url": "https://news.ifeng.com/c/8uZxW8JiojM",
           "source": "凤凰网",
@@ -266,17 +292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        },
-        {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "伊朗议长斥美五项“违约”行为",
@@ -325,6 +340,19 @@
           "time_info": "[03时51分 ~ 05时22分]"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 17时25分]"
+        },
+        {
           "title": "伊朗多地传出爆炸声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
           "source": "百度热搜",
@@ -335,6 +363,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 11时32分]"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 17时25分]"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -381,18 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时02分]"
-        },
-        {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时26分]"
         },
         {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
@@ -480,7 +508,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -510,17 +538,6 @@
           "title": "伊朗称击落一架美军“死神”无人机",
           "url": "https://www.toutiao.com/trending/7659992996650614826/",
           "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
           "ranks": [
             12
           ],
@@ -623,7 +640,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -758,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "伊朗武装部队参谋长：伊朗武装力量与人民并肩，以强大而稳固的姿态出现在战场上，若敌人在伊朗海岸登陆，将踏入一片有去无回的地狱。",
+          "url": "https://flash.jin10.com/detail/20260708170936658800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
@@ -925,6 +953,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "伊朗海军上将西亚里：我们将让伊朗海岸成为敌人的地狱。",
+          "url": "https://flash.jin10.com/detail/20260708170806441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "报道称伊朗多地发生爆炸，美军确认：对伊朗发动一系列打击",
           "url": "https://wallstreetcn.com/livenews/3130179",
           "source": "华尔街见闻-快讯",
@@ -983,7 +1022,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 39,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -1045,6 +1084,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录已经结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "菲律宾比索兑美元跌至61.593，此前特朗普称与伊朗结束战争的临时协议已告终。",
+          "url": "https://flash.jin10.com/detail/20260708171932614800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）",
@@ -1125,6 +1186,50 @@
           "time_info": "[11时32分 ~ 14时29分]"
         },
         {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.toutiao.com/trending/7660070986934390335/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普要求切断与西班牙贸易往来",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%88%87%E6%96%AD%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B4%B8%E6%98%93%E5%BE%80%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.douyin.com/hot/2563445",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
           "url": "https://flash.jin10.com/detail/20260708044045752800",
           "source": "金十数据",
@@ -1134,6 +1239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普发表讲话后，日经指数期货跌幅扩大至1.3%。 法国CAC指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3130541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -1167,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "北约据悉考虑跳过2027年峰会 以避免与特朗普关系紧张",
+          "url": "https://wallstreetcn.com/livenews/3130536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
@@ -1224,6 +1351,39 @@
           "time_info": "01时12分"
         },
         {
+          "title": "西班牙首相办公室（就特朗普下令切断贸易）发表声明：西班牙将这些表态视为“一切照常”处理。 我们国家与美国享有良好的社会、文化和经济关系，我们不打算改变这一点。",
+          "url": "https://wallstreetcn.com/livenews/3130529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普称伊朗协议已“终结” 或为以色列提供行动借口",
+          "url": "https://flash.jin10.com/detail/20260708170904434800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "欧股跌幅扩大，德国DAX指数下跌2%，法国CAC指数下跌1.7%，西班牙IBEX35指数跌超2%，特朗普要求全面切断与西班牙贸易。",
+          "url": "https://wallstreetcn.com/livenews/3130526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普再称格陵兰岛应由美控制",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E7%A7%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%BA%94%E7%94%B1%E7%BE%8E%E6%8E%A7%E5%88%B6",
           "source": "bilibili 热搜",
@@ -1246,6 +1406,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "特朗普结束停火发言后 欧洲央行加息预期升温",
+          "url": "https://flash.jin10.com/detail/20260708170829835800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普称将取消对土耳其制裁",
           "url": "https://wallstreetcn.com/livenews/3130089",
           "source": "华尔街见闻-快讯",
@@ -1255,6 +1426,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普一句话令非美货币下挫 印度央行疑已出手干预",
+          "url": "https://flash.jin10.com/detail/20260708170813379800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普发表言论后，市场已完全定价英国央行年底前加息25个基点的预期。",
+          "url": "https://wallstreetcn.com/livenews/3130522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
@@ -1271,7 +1464,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -1426,12 +1619,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "美股存储概念股盘前持续走低，闪迪股价盘前跌幅扩大至7%，美光科技下跌6%，西部数据跌超4%，希捷科技跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3130530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1％，道琼斯指数期货跌0.85％，标普500指数期货跌0.67％。",
+          "url": "https://wallstreetcn.com/livenews/3130517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录“已终结”，国际油价拉升，美股股指期货跳水",
+          "url": "https://wallstreetcn.com/livenews/3130515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -1494,6 +1720,17 @@
           "time_info": "[01时11分 ~ 01时12分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "疑似DeepSeek V4正式版灰测",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCDeepSeek%20V4%E6%AD%A3%E5%BC%8F%E7%89%88%E7%81%B0%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -1503,6 +1740,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -1580,34 +1856,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
