@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T11:58:42.614958+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-05T14:31:58.845219+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -20,13 +20,24 @@
           "time_info": "[03时27分 ~ 08时13分]"
         },
         {
+          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
+          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
+        },
+        {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260805115022056800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -37,18 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
-          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -59,9 +59,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普敦促美参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3145193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "特朗普称美伊谈判“进展很好”，伊朗却不愿承认",
@@ -70,7 +81,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -81,7 +92,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -92,7 +103,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -119,15 +130,37 @@
           "time_info": "07时01分"
         },
         {
+          "title": "已退1000亿美元！特朗普“解放日”关税退款进度接近六成",
+          "url": "https://flash.jin10.com/detail/20260805140832580800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "特朗普：霍尔木兹海峡将很快重新开放。 如果伊朗再次反悔，他们将遭受重创。 我们与伊朗的谈判非常顺利。",
           "url": "https://wallstreetcn.com/livenews/3145117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "金十整理：特朗普怒批石油巨头“大发战争财”，全球六大油企二季度谁赚最狠？",
+          "url": "https://flash.jin10.com/detail/20260805140743439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -147,7 +180,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -213,7 +246,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -224,7 +257,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
@@ -263,9 +296,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -274,9 +307,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -387,7 +420,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -431,7 +464,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -450,30 +483,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 07时01分]"
-        },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
           "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 11时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时31分]"
         },
         {
           "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
@@ -484,8 +507,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 14时31分]"
+        },
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 07时01分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
@@ -499,6 +533,18 @@
           "time_info": "[03时27分 ~ 05时09分]"
         },
         {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
+        },
+        {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3144913",
           "source": "华尔街见闻-快讯",
@@ -510,15 +556,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
+          "title": "小摩：看多亚、美股市，波动或不小，建议回调买入",
+          "url": "https://flash.jin10.com/detail/20260805141103377800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时58分"
+          "time_info": "14时31分"
         },
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -564,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "SpaceX股价在Tradegate下跌7%，与其美股盘后走势大致一致。",
+          "url": "https://flash.jin10.com/detail/20260805140652309800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
@@ -645,7 +702,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -695,9 +752,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -744,11 +801,12 @@
           "url": "https://www.zhihu.com/question/2067002987545884316",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 14时31分]"
         }
       ]
     },
